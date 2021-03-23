@@ -1,7 +1,12 @@
-nmfghskdjaslfkjfajdglkfad,jfgks
+<!DOCTYPE html>
+<html>
+<body>
 
-sfhasjfkgfhdssdjkhfd
+<h1>My first PHP page</h1>
 
-MAllikar
+<?php
+echo "Hello World!";
+?> 
 
-What can you do?
+</body>
+</html>
